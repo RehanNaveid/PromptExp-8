@@ -90,6 +90,7 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 “A collection of colorful lollipops with spiral patterns, displayed in artistic lighting, against a dark background” 
 
 **Image Generated:** 
+
 ![Aspose Words f988d139-0d76-4ef3-bca8-8899327b9f24 005](https://github.com/user-attachments/assets/00c98f87-af75-4fec-8dcd-ce0b4d86c0ef)
 
 
